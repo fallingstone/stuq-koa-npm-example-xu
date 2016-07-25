@@ -1,0 +1,19 @@
+{
+  "name": "stuq-koa-npm-example-xu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fallingstone/stuq-koa-npm-example-xu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fallingstone/stuq-koa-npm-example-xu/issues"
+  },
+  "homepage": "https://github.com/fallingstone/stuq-koa-npm-example-xu#readme"
+}
